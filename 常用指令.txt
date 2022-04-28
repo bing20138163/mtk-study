@@ -1,0 +1,8 @@
+1、查看Ubuntu操作系统的位数: getconf LONG_BIT
+2、lsb_release -a 查看
+tar -jxvf XXXX.tar.bz2
+
+chmod 777 httpd/vendors/makefsdatac
+
+sudo apt-get install libstdc++6:i386
+sudo apt-get install default-jre
